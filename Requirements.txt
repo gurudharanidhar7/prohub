@@ -6,5 +6,7 @@ Admin roles : 1-Over taking the project
               2-requirements and specifications analysis
               3-project time and cost estimation
               4-Dividing the project into modules and phases.
+
+Developers : Each developer can create account under existing sector or can create one.
               
               
