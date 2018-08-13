@@ -1,1 +1,10 @@
 requirements: 
+Users : 1-Developers
+        2-Admins
+        
+Admin roles : 1-Over taking the project
+              2-requirements and specifications analysis
+              3-project time and cost estimation
+              4-Dividing the project into modules and phases.
+              
+              
